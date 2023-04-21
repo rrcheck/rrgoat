@@ -26,7 +26,7 @@ you are caught engaging in unauthorized hacking, most companies will fire you.
 Claiming that you were doing security research will not work as that is the
 first thing that all hackers claim.*
 
-# Installation instructions:
+# Installation instructions for your butt:
 
 For more details check [the Contribution guide](/CONTRIBUTING.md)
 
