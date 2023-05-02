@@ -9,7 +9,7 @@
     </suppress>
     <suppress base="true">
         <notes><![CDATA[
-        This suppresses false positives identified on spring framework.
+        This suppresses false positives identified on spring frameworks.
         ]]></notes>
         <cpe>cpe:/a:redhat:undertow</cpe>
         <cve>CVE-2019-14888</cve>
